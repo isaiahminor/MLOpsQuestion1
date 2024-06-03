@@ -1,0 +1,5 @@
+input1 = input("How many apples do you have?: ")
+input2 = input("How many apples do i have?: ")
+input3 = print(f"I have {input1} apples and you have {input2} apples")
+sum = int(input1) + int(input2)
+print(f"Together we have {sum} apples")
